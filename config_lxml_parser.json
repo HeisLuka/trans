@@ -1,6 +1,6 @@
 {
-  "last_url": "https://ixdzs8.com/read/546382/p217.html",
-  "last_profile": "Profile2",
+  "last_url": "https://ixdzs8.com/read/553335/p1.html",
+  "last_profile": "Default",
   "chrome_exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
   "selectors": {
     "101kks.com": {
@@ -75,7 +75,7 @@
         ".banner"
       ],
       "min_text_len": 200,
-      "max_pages": 1
+      "max_pages": 2
     },
     "twkan.com": {
       "title_css": [
@@ -127,10 +127,10 @@
     },
     "5scw.com": {
       "title_css": [
-        ".title"
+        ".title1"
       ],
       "content_css": [
-        ".content"
+        "#content"
       ],
       "next_css": [
         "#next_url"
@@ -143,10 +143,18 @@
         ".ad",
         ".advert",
         "#ad",
-        ".banner"
+        ".banner",
+        "ins.adsbygoogle",
+        ".adsbygoogle",
+        "[id*='ads']",
+        "[class*='ads']",
+        "[id*='google_ads']",
+        "[class*='google_ads']",
+        "[id*='ad_']",
+        "[class*='ad_']"
       ],
-      "min_text_len": 600,
-      "max_pages": 5
+      "min_text_len": 200,
+      "max_pages": 50
     },
     "27k.net": {
       "title_css": [
@@ -746,8 +754,135 @@
       ],
       "min_text_len": 200,
       "max_pages": 2
+    },
+    "lightnovelworld.org": {
+      "title_css": [
+        ".chapter-title"
+      ],
+      "content_css": [
+        ".font-default.protected-content.chapter-text"
+      ],
+      "next_css": [
+        ".next-btn.nav-btn"
+      ],
+      "remove_css": [
+        "script",
+        "style",
+        "noscript",
+        ".ads",
+        ".ad",
+        ".advert",
+        "#ad",
+        ".banner",
+        "ins.adsbygoogle",
+        ".adsbygoogle",
+        "[id*='ads']",
+        "[class*='ads']",
+        "[id*='google_ads']",
+        "[class*='google_ads']",
+        "[id*='ad_']",
+        "[class*='ad_']"
+      ],
+      "min_text_len": 200,
+      "max_pages": 20
+    },
+    "vvnovel.com": {
+      "title_css": [
+        ".chapter-text"
+      ],
+      "content_css": [
+        "#chapter-content"
+      ],
+      "next_css": [
+        "#next_chap"
+      ],
+      "remove_css": [
+        "script",
+        "style",
+        "noscript",
+        ".ads",
+        ".ad",
+        ".advert",
+        "#ad",
+        ".banner",
+        "ins.adsbygoogle",
+        ".adsbygoogle",
+        "[id*='ads']",
+        "[class*='ads']",
+        "[id*='google_ads']",
+        "[class*='google_ads']",
+        "[id*='ad_']",
+        "[class*='ad_']"
+      ],
+      "min_text_len": 200,
+      "max_pages": 5
+    },
+    "sxgread.com": {
+      "title_css": [
+        "h1"
+      ],
+      "content_css": [
+        ".NovelTxt"
+      ],
+      "next_css": [
+        ".nextpage"
+      ],
+      "remove_css": [
+        "script",
+        "style",
+        "noscript",
+        ".ads",
+        ".ad",
+        ".advert",
+        "#ad",
+        ".banner",
+        "ins.adsbygoogle",
+        ".adsbygoogle",
+        "[id*='ads']",
+        "[class*='ads']",
+        "[id*='google_ads']",
+        "[class*='google_ads']",
+        "[id*='ad_']",
+        "[class*='ad_']"
+      ],
+      "min_text_len": 200,
+      "max_pages": 20
+    },
+    "xxbiqu.com": {
+      "title_css": [
+        "h1"
+      ],
+      "content_css": [
+        ".read-content"
+      ],
+      "next_css": [
+        ".nextpage",
+        "a#next",
+        "a.next",
+        ".page_chapter a.next",
+        "#next_url"
+      ],
+      "remove_css": [
+        "script",
+        "style",
+        "noscript",
+        ".ads",
+        ".ad",
+        ".advert",
+        "#ad",
+        ".banner",
+        "ins.adsbygoogle",
+        ".adsbygoogle",
+        "[id*='ads']",
+        "[class*='ads']",
+        "[id*='google_ads']",
+        "[class*='google_ads']",
+        "[id*='ad_']",
+        "[class*='ad_']"
+      ],
+      "min_text_len": 200,
+      "max_pages": 20
     }
   },
-  "use_account_profile": true,
   "last_account_id": 1
 }
