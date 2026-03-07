@@ -986,5 +986,36 @@
     ],
     "min_text_len": 200,
     "max_pages": 20
+  },
+  "m.u9mm.com": {
+    "title_css": [
+      ".nr_title"
+    ],
+    "content_css": [
+      "#nr1"
+    ],
+    "next_css": [
+      "#pb_next"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner",
+      "ins.adsbygoogle",
+      ".adsbygoogle",
+      "[id*='ads']",
+      "[class*='ads']",
+      "[id*='google_ads']",
+      "[class*='google_ads']",
+      "[id*='ad_']",
+      "[class*='ad_']"
+    ],
+    "min_text_len": 200,
+    "max_pages": 20
   }
 }
