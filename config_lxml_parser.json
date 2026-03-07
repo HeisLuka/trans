@@ -1,48 +1,136 @@
 {
   "101kks.com": {
-    "title_css": ["h1"],
-    "content_css": ["#txtcontent"],
-    "next_css": ["a#next", "a.next", ".page_chapter a.next"],
-    "remove_css": ["script", "style", "noscript", ".ads", ".ad", ".advert", "#ad", ".banner"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      "#txtcontent"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner"
+    ],
     "min_text_len": 600,
     "max_pages": 1
   },
   "twbook.cc": {
-    "title_css": ["h1"],
-    "content_css": [".content"],
-    "next_css": [".foot-nav.my-5.warp"],
-    "remove_css": ["script", "style", "noscript", ".ads", ".ad", ".advert", "#ad", ".banner"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      ".content"
+    ],
+    "next_css": [
+      ".foot-nav.my-5.warp"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner"
+    ],
     "min_text_len": 600,
     "max_pages": 1
   },
   "ixdzs8.com": {
-    "title_css": ["h1"],
-    "content_css": [".page-content"],
-    "next_css": ["a#next", "a.next", ".page_chapter a.next", ".chapter-next.chapter-paging"],
-    "remove_css": ["script", "style", "noscript", ".ads", ".ad", ".advert", "#ad", ".banner"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      ".page-content"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next",
+      ".chapter-next.chapter-paging"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner"
+    ],
     "min_text_len": 200,
     "max_pages": 2
   },
   "twkan.com": {
-    "title_css": ["h1"],
-    "content_css": ["#txtcontent0"],
-    "next_css": ["a#next", "a.next", ".page_chapter a.next"],
-    "remove_css": ["script", "style", "noscript", ".ads", ".ad", ".advert", "#ad", ".banner"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      "#txtcontent0"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner"
+    ],
     "min_text_len": 200,
     "max_pages": 2
   },
   "banxiatw.com": {
-    "title_css": [".style_h1"],
-    "content_css": [".content"],
-    "next_css": ["#next_url"],
-    "remove_css": ["script", "style", "noscript", ".ads", ".ad", ".advert", "#ad", ".banner"],
+    "title_css": [
+      ".style_h1"
+    ],
+    "content_css": [
+      ".content"
+    ],
+    "next_css": [
+      "#next_url"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner"
+    ],
     "min_text_len": 200,
     "max_pages": 2
   },
   "5scw.com": {
-    "title_css": [".title1"],
-    "content_css": ["#content"],
-    "next_css": ["#next_url"],
+    "title_css": [
+      ".title1"
+    ],
+    "content_css": [
+      "#content"
+    ],
+    "next_css": [
+      "#next_url"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -65,9 +153,17 @@
     "max_pages": 50
   },
   "27k.net": {
-    "title_css": ["h1.hide720"],
-    "content_css": [".txtnav"],
-    "next_css": ["a#next", "a.next", ".page_chapter a.next"],
+    "title_css": [
+      "h1.hide720"
+    ],
+    "content_css": [
+      ".txtnav"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next"
+    ],
     "remove_css": [
       "div.baocuo",
       ".hide720.txtinfo",
@@ -92,17 +188,47 @@
     "max_pages": 2
   },
   "biquge.tw": {
-    "title_css": ["h1"],
-    "content_css": ["#chaptercontent"],
-    "next_css": ["#next_url"],
-    "remove_css": ["script", "style", "noscript", ".ads", ".ad", ".advert", "#ad", ".banner"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      "#chaptercontent"
+    ],
+    "next_css": [
+      "#next_url"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner"
+    ],
     "min_text_len": 600,
     "max_pages": 2
   },
   "69shuba.com": {
-    "title_css": ["h1.hide720", "h1", ".chapter-title", ".title"],
-    "content_css": [".txtnav", "#txtcontent", ".content", ".page-content", ".con"],
-    "next_css": ["a#next", "a.next", ".page_chapter a.next"],
+    "title_css": [
+      "h1.hide720",
+      "h1",
+      ".chapter-title",
+      ".title"
+    ],
+    "content_css": [
+      ".txtnav",
+      "#txtcontent",
+      ".content",
+      ".page-content",
+      ".con"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -125,9 +251,18 @@
     "max_pages": 2
   },
   "ixdzs.tw": {
-    "title_css": ["h1.hide720", "h1", ".chapter-title", ".title"],
-    "content_css": [".page-content"],
-    "next_css": [".chapter-next.chapter-paging"],
+    "title_css": [
+      "h1.hide720",
+      "h1",
+      ".chapter-title",
+      ".title"
+    ],
+    "content_css": [
+      ".page-content"
+    ],
+    "next_css": [
+      ".chapter-next.chapter-paging"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -150,17 +285,42 @@
     "max_pages": 20
   },
   "drxsw.com": {
-    "title_css": ["h1"],
-    "content_css": ["#txtcontent", ".read-content"],
-    "next_css": ["a#next", "a.next", ".page_chapter a.next", "#nextChapterBottom"],
-    "remove_css": ["script", "style", "noscript", ".ads", ".ad", ".advert", "#ad", ".banner"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      "#txtcontent",
+      ".read-content"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next",
+      "#nextChapterBottom"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner"
+    ],
     "min_text_len": 600,
     "max_pages": 3
   },
   "quanben5.com": {
-    "title_css": [".title1"],
-    "content_css": ["#content"],
-    "next_css": [".page_next"],
+    "title_css": [
+      ".title1"
+    ],
+    "content_css": [
+      "#content"
+    ],
+    "next_css": [
+      ".page_next"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -183,9 +343,15 @@
     "max_pages": 20
   },
   "pinellianovel.com": {
-    "title_css": [".style_h1"],
-    "content_css": [".content"],
-    "next_css": ["#next_url"],
+    "title_css": [
+      ".style_h1"
+    ],
+    "content_css": [
+      ".content"
+    ],
+    "next_css": [
+      "#next_url"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -209,9 +375,21 @@
     "max_pages": 2
   },
   "wtr-lab.com": {
-    "title_css": [".chapter-title"],
-    "content_css": [".txtnav", "#txtcontent", ".content", ".page-content", ".con"],
-    "next_css": ["a#next", "a.next", ".page_chapter a.next"],
+    "title_css": [
+      ".chapter-title"
+    ],
+    "content_css": [
+      ".txtnav",
+      "#txtcontent",
+      ".content",
+      ".page-content",
+      ".con"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -234,9 +412,15 @@
     "max_pages": 2
   },
   "shuhaixsw.com": {
-    "title_css": [".title"],
-    "content_css": [".content"],
-    "next_css": ["a.btnGray:nth-of-type(3)"],
+    "title_css": [
+      ".title"
+    ],
+    "content_css": [
+      ".content"
+    ],
+    "next_css": [
+      "a.btnGray:nth-of-type(3)"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -259,9 +443,15 @@
     "max_pages": 20
   },
   "westnovel.com": {
-    "title_css": ["h1"],
-    "content_css": ["#mlfy_main_text"],
-    "next_css": ["a[href*=\"showinfo\"]"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      "#mlfy_main_text"
+    ],
+    "next_css": [
+      "a[href*=\"showinfo\"]"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -284,9 +474,15 @@
     "max_pages": 20
   },
   "uuks5.com": {
-    "title_css": ["h1"],
-    "content_css": [".read-content"],
-    "next_css": ["#nextChapterBottom"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      ".read-content"
+    ],
+    "next_css": [
+      "#nextChapterBottom"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -309,9 +505,15 @@
     "max_pages": 2
   },
   "novelbin.com": {
-    "title_css": [".chr-text"],
-    "content_css": ["#chr-content"],
-    "next_css": ["#next_chap"],
+    "title_css": [
+      ".chr-text"
+    ],
+    "content_css": [
+      "#chr-content"
+    ],
+    "next_css": [
+      "#next_chap"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -334,9 +536,15 @@
     "max_pages": 2
   },
   "shengxuxu.net": {
-    "title_css": ["title"],
-    "content_css": ["#chaptercontent"],
-    "next_css": [".last"],
+    "title_css": [
+      "title"
+    ],
+    "content_css": [
+      "#chaptercontent"
+    ],
+    "next_css": [
+      ".last"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -359,17 +567,41 @@
     "max_pages": 2
   },
   "sudugu.org": {
-    "title_css": ["h1"],
-    "content_css": [".con"],
-    "next_css": ["span:nth-of-type(2)"],
-    "remove_css": ["script", "style", "noscript", ".ads", ".ad", ".advert", "#ad", ".banner"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      ".con"
+    ],
+    "next_css": [
+      "span:nth-of-type(2)"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner"
+    ],
     "min_text_len": 600,
     "max_pages": 4
   },
   "xqishuta.net": {
-    "title_css": ["h1"],
-    "content_css": ["#content1"],
-    "next_css": ["a#next", "a.next", ".page_chapter a.next", "[href=\"50894156.html\"]"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      "#content1"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next",
+      "[href=\"50894156.html\"]"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -392,9 +624,15 @@
     "max_pages": 20
   },
   "qishupu.com": {
-    "title_css": ["h1"],
-    "content_css": ["#content"],
-    "next_css": [".next"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      "#content"
+    ],
+    "next_css": [
+      ".next"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -417,9 +655,15 @@
     "max_pages": 2
   },
   "ttks.tw": {
-    "title_css": ["h1"],
-    "content_css": ["div.content:nth-of-type(4)"],
-    "next_css": ["#linkNext"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      "div.content:nth-of-type(4)"
+    ],
+    "next_css": [
+      "#linkNext"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -445,9 +689,15 @@
     "max_pages": 2
   },
   "kelexs.com": {
-    "title_css": [".title"],
-    "content_css": [".content"],
-    "next_css": ["a.btnBlack:nth-of-type(3)"],
+    "title_css": [
+      ".title"
+    ],
+    "content_css": [
+      ".content"
+    ],
+    "next_css": [
+      "a.btnBlack:nth-of-type(3)"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -471,9 +721,15 @@
     "max_pages": 20
   },
   "novlove.com": {
-    "title_css": [".chr-text"],
-    "content_css": ["#chr-content"],
-    "next_css": ["#next_chap"],
+    "title_css": [
+      ".chr-text"
+    ],
+    "content_css": [
+      "#chr-content"
+    ],
+    "next_css": [
+      "#next_chap"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -496,9 +752,15 @@
     "max_pages": 2
   },
   "lightnovelworld.org": {
-    "title_css": [".chapter-title"],
-    "content_css": [".font-default.protected-content.chapter-text"],
-    "next_css": [".next-btn.nav-btn"],
+    "title_css": [
+      ".chapter-title"
+    ],
+    "content_css": [
+      ".font-default.protected-content.chapter-text"
+    ],
+    "next_css": [
+      ".next-btn.nav-btn"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -521,9 +783,15 @@
     "max_pages": 20
   },
   "vvnovel.com": {
-    "title_css": [".chapter-text"],
-    "content_css": ["#chapter-content"],
-    "next_css": ["#next_chap"],
+    "title_css": [
+      ".chapter-text"
+    ],
+    "content_css": [
+      "#chapter-content"
+    ],
+    "next_css": [
+      "#next_chap"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -546,9 +814,15 @@
     "max_pages": 5
   },
   "sxgread.com": {
-    "title_css": ["h1"],
-    "content_css": [".NovelTxt"],
-    "next_css": [".nextpage"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      ".NovelTxt"
+    ],
+    "next_css": [
+      ".nextpage"
+    ],
     "remove_css": [
       "script",
       "style",
@@ -571,9 +845,127 @@
     "max_pages": 20
   },
   "xxbiqu.com": {
-    "title_css": ["h1"],
-    "content_css": [".read-content"],
-    "next_css": [".nextpage", "a#next", "a.next", ".page_chapter a.next", "#next_url"],
+    "title_css": [
+      "h1"
+    ],
+    "content_css": [
+      ".read-content"
+    ],
+    "next_css": [
+      ".nextpage",
+      "a#next",
+      "a.next",
+      ".page_chapter a.next",
+      "#next_url"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner",
+      "ins.adsbygoogle",
+      ".adsbygoogle",
+      "[id*='ads']",
+      "[class*='ads']",
+      "[id*='google_ads']",
+      "[class*='google_ads']",
+      "[id*='ad_']",
+      "[class*='ad_']"
+    ],
+    "min_text_len": 200,
+    "max_pages": 20
+  },
+  "m.po18cg.com": {
+    "title_css": [
+      "#nr_title"
+    ],
+    "content_css": [
+      "#nr1"
+    ],
+    "next_css": [
+      "#pb_next"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner",
+      "ins.adsbygoogle",
+      ".adsbygoogle",
+      "[id*='ads']",
+      "[class*='ads']",
+      "[id*='google_ads']",
+      "[class*='google_ads']",
+      "[id*='ad_']",
+      "[class*='ad_']"
+    ],
+    "min_text_len": 200,
+    "max_pages": 1
+  },
+  "shubaowb.com": {
+    "title_css": [
+      "h1.hide720",
+      "h1",
+      ".chapter-title",
+      ".title",
+      ".title1"
+    ],
+    "content_css": [
+      ".txtnav",
+      "#txtcontent",
+      ".content",
+      ".page-content",
+      ".con",
+      "#chaptercontent"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next",
+      "#pb_next"
+    ],
+    "remove_css": [
+      "script",
+      "style",
+      "noscript",
+      ".ads",
+      ".ad",
+      ".advert",
+      "#ad",
+      ".banner",
+      "ins.adsbygoogle",
+      ".adsbygoogle",
+      "[id*='ads']",
+      "[class*='ads']",
+      "[id*='google_ads']",
+      "[class*='google_ads']",
+      "[id*='ad_']",
+      "[class*='ad_']"
+    ],
+    "min_text_len": 200,
+    "max_pages": 2
+  },
+  "seyuwen.com": {
+    "title_css": [
+      "h1",
+      ".h1title"
+    ],
+    "content_css": [
+      ".clear.contentbox"
+    ],
+    "next_css": [
+      "a#next",
+      "a.next",
+      ".page_chapter a.next"
+    ],
     "remove_css": [
       "script",
       "style",
